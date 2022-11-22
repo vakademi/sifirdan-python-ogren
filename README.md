@@ -1,4 +1,4 @@
-# Sıfırdan Python'da Uzmanlaş (Ercan Bozkurt ve Hakan Yalçınkaya ile)
+# İki Eğitmen ile Sıfırdan Python Öğren (Ercan Bozkurt ve Hakan Yalçınkaya ile)
 
 Sıfırdan Python'da Uzmanlaş (Ercan Bozkurt ve Hakan Yalçınkaya ile) Kursunda; dünyanın en popüler dillerinden biri olan Python'ın 3.x sürümleri ile birlikte gelen yeni özelliklerin yanı sıra Python 2'den Python 3'e geçişte yazılımsal farklılıklar da işlendi.
 
@@ -19,7 +19,7 @@ Kullanım alanları ve iş sahası çok hızlı artıyor.
 
 
 Eğitim detayları için:
-[Sıfırdan Python'da Uzmanlaş - Vakademi.com.tr](https://vakademi.com.tr/home/category/yazilim/sifirdan-pythonda-uzmanlas/)
+[Udemy: İki Eğitmen ile Sıfırdan Python Öğren](http://lnk.ktlzr.co/gtupy)
 
 Eğitmenlerin Blog Sayfaları:
 - [Ercan Bozkurt](http://ercanbozkurt.blogspot.com/)
